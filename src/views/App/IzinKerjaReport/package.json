@@ -1,0 +1,6 @@
+{
+  "name": "IzinKerjaReport",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./IzinKerjaReport.js"
+}

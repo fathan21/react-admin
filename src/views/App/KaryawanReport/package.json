@@ -1,0 +1,6 @@
+{
+  "name": "KaryawanReport",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./KaryawanReport.js"
+}

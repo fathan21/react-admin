@@ -1,0 +1,6 @@
+{
+  "name": "Karyawan",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Karyawan.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AlatBeratReport",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AlatBeratReport.js"
+}

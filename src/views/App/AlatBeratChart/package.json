@@ -1,0 +1,6 @@
+{
+  "name": "AlatBeratChart",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AlatBeratChart.js"
+}
